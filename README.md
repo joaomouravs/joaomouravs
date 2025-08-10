@@ -1,7 +1,8 @@
-<h1 align="center">👨🏽‍💻 Olá, eu sou o João Vitor</h1>
-<h3 align="center">Estudante de TI | Estagiário de TI | </h3>
+# João Vitor
 
-<p align="center">
+**Web Developer (Front-end) | UI/UX Design | Python | Network Infrastructure**
+
+<p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-moura-dos-santos-aa9a6724b">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -11,52 +12,68 @@
   <a href="mailto:moyrasyntoos@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+   <a href="https://github.com/joaomouravs?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/joaomouravs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+      <a href="https://github.com/joaomouravs?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/joaomoravs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    </a>
 </p>
+
 
 ---
 
 ## 📌 Sobre Mim
-Tenho 19 anos e estou no último ano do Ensino Médio Técnico em **Informática** pelo **CEFET/RJ**.  
-Atualmente sou estagiário de TI na **Procuradoria Geral do Estado do Rio de Janeiro** e já atuei na **Prefeitura de Nova Iguaçu** na área de TI junto ao setor de Meio Ambiente.
+Estou no último ano do Ensino Médio Técnico em Informática pelo CEFET/RJ.
+Atualmente, atuo como estagiário de TI na Procuradoria Geral do Estado do Rio de Janeiro e já trabalhei na Prefeitura de Nova Iguaçu, na área de TI, em parceria com o setor de Meio Ambiente.
 
-Durante minha trajetória, participei de projetos estudantis e acadêmicos que uniram **tecnologia**, **liderança** e **impacto social**, como o **desenvolvimento de jogos digitais** e ações de **educação ambiental**.
+Ao longo da minha trajetória, participei de projetos estudantis e acadêmicos que uniram tecnologia, liderança e impacto social, como o desenvolvimento de jogos digitais e ações de educação ambiental.
+
+Busco constantemente me aprimorar na área de TI, estudando as linguagens e tecnologias nas quais desejo atuar futuramente, realizando cursos em instituições reconhecidas e conquistando certificações relevantes para minha carreira.
 
 ---
 
 ## 💼 Experiências Relevantes
 - **Estagiário de TI** — Procuradoria Geral do Estado do RJ *(2025 - Atual)*
-- **Estagiário de TI** — Prefeitura de Nova Iguaçu / Meio Ambiente *(Ano)*
+- **Estagiário de TI** — Prefeitura de Nova Iguaçu / Meio Ambiente *(2023-2024)*
 - **Presidente e Vice-Presidente** — Grêmio Estudantil do CEFET/RJ
 - **Representante de Turma e Conselheiro** — Ensino Médio Técnico
 
 ---
 
 ## 🚀 Projetos
-**📌 Projeto de Extensão — Área de Proteção Ambiental (APA CEFET/RJ)**  
+**📌 Projeto de Extensão — Área de Proteção Ambiental (APA CEFET/RJ)** *(2023-2024)*
 Atuei na comunicação digital da iniciativa, produção de conteúdo visual/textual, registro fotográfico e atualização das redes sociais oficiais, além de apoiar ações de educação ambiental.
 
-**📌 Desenvolvimento de Jogos Digitais — “The Mei Game”**  
+**📌 Desenvolvimento de Jogos Digitais — “The Mei Game”**  *(2022-2023)*
 Bolsista responsável por programação, design e coordenação. O jogo, no formato *visual novel*, contou a história real de uma microempreendedora de Nova Iguaçu.
 
 ---
 
 ## 🎓 Formação e Cursos
-- **Ensino Médio Técnico em Informática** — CEFET/RJ *(Cursando)*
-- Redes de Computadores *(Cisco)*
-- Bancos de Dados *(Fundação Bradesco)*
+- **Ensino Médio Técnico em Informática** — CEFET/RJ *(2021-2025)*
+- Redes de Computadores *(Cisco Networking Academy)*
 - Linguagens de Programação *(Python, HTML, CSS)*
-- Introdução à Inteligência Artificial Moderna *(Ada Tech)*
-- Fundamentos de IA *(IBM SkillsBuild)*
-- Essenciais de Análise de Dados *(IBM SkillsBuild)*
+- Introdução à Inteligência Artificial Moderna *(Cisco Networking Academy)*
+- Fundamentos de IA *(Cisco Networking Academy)*
+- Essenciais de Análise de Dados *(Cisco Networking Academy)*
 
 ---
 
 ## 🏅 Principais Certificados
-- Redes de Computadores — Cisco
-- Bancos de Dados — Fundação Bradesco
-- Introdução à IA Moderna — Ada Tech
-- Fundamentos de IA — IBM SkillsBuild
-- Essenciais de Análise de Dados — IBM SkillsBuild  
+- Redes de Computadores — Cisco Networking Academy
+- Introdução à Cibersegurança — Cisco Networking Academy
+- Introdução à Ciência de Dados — Cisco Networking Academy
+- JavaScript — Cisco Networking Academy
+- Suporte e segurança de rede — Cisco Networking Academy
 [📂 **Ver todos os certificados**](https://www.linkedin.com/in/jo%C3%A3o-vitor-moura-dos-santos-aa9a6724b/details/certifications/)
 
 ---
@@ -126,21 +143,70 @@ Bolsista responsável por programação, design e coordenação. O jogo, no form
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Adobe Photoshop" 
+    title="Adobe Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Adobe illustrator" 
+    title="Adobe illustrator"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Adobe XD" 
+    title="Adobe XD"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<br/>
+<br/>
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvmouraaa&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmouraaa&layout=compact&theme=tokyonight"/>
-</p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=joaomouravs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomouravs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-## 🏆 Troféus do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvmouraaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
----
 
-💡 *"A tecnologia é a ponte entre o presente e o futuro que imaginamos."*](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
