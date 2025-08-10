@@ -1,4 +1,4 @@
-# João Vitor
+# 👨🏾‍💻 João Vitor
 
 **Web Developer (Front-end) | UI/UX Design | Python | Network Infrastructure**
 
