@@ -1,5 +1,5 @@
-[<h1 align="center">👨🏽‍💻 Olá, eu sou o João Vitor</h1>
-<h3 align="center">💻 Estudante de TI | Estagiário de TI | </h3>
+<h1 align="center">👨🏽‍💻 Olá, eu sou o João Vitor</h1>
+<h3 align="center">Estudante de TI | Estagiário de TI | </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-moura-dos-santos-aa9a6724b">
@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/joaovux">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:moyrasyntoos@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
