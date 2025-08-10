@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Sobre Mim
+## 📌 Sobre Mim | About Me
 Estou no último ano do Ensino Médio Técnico em Informática pelo CEFET/RJ.
 Atualmente, atuo como estagiário de TI na Procuradoria Geral do Estado do Rio de Janeiro e já trabalhei na Prefeitura de Nova Iguaçu, na área de TI, em parceria com o setor de Meio Ambiente.
 
@@ -41,7 +41,7 @@ Busco constantemente me aprimorar na área de TI, estudando as linguagens e tecn
 
 ---
 
-## 💼 Experiências Relevantes
+## 💼 Experiências Relevantes | Relevant Experiences
 - **Estagiário de TI** — Procuradoria Geral do Estado do RJ *(2025 - Atual)*
 - **Estagiário de TI** — Prefeitura de Nova Iguaçu / Meio Ambiente *(2023-2024)*
 - **Presidente e Vice-Presidente** — Grêmio Estudantil do CEFET/RJ
@@ -49,7 +49,7 @@ Busco constantemente me aprimorar na área de TI, estudando as linguagens e tecn
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos | Projects
 **📌 Projeto de Extensão — Área de Proteção Ambiental (APA CEFET/RJ)** *(2023-2024)*
 Atuei na comunicação digital da iniciativa, produção de conteúdo visual/textual, registro fotográfico e atualização das redes sociais oficiais, além de apoiar ações de educação ambiental.
 
@@ -58,7 +58,7 @@ Bolsista responsável por programação, design e coordenação. O jogo, no form
 
 ---
 
-## 🎓 Formação e Cursos
+## 🎓 Formação e Cursos | Training and Courses
 - **Ensino Médio Técnico em Informática** — CEFET/RJ *(2021-2025)*
 - Redes de Computadores *(Cisco Networking Academy)*
 - Linguagens de Programação *(Python, HTML, CSS)*
@@ -68,7 +68,7 @@ Bolsista responsável por programação, design e coordenação. O jogo, no form
 
 ---
 
-## 🏅 Principais Certificados
+## 🏅 Principais Certificados | Main Certificates
 - Redes de Computadores — Cisco Networking Academy
 - Introdução à Cibersegurança — Cisco Networking Academy
 - Introdução à Ciência de Dados — Cisco Networking Academy
@@ -78,7 +78,7 @@ Bolsista responsável por programação, design e coordenação. O jogo, no form
 
 ---
 
-## 🛠 Linguagens e Ferramentas
+## 🛠 Linguagens e Ferramentas | Languages and Tools
 
 <img 
     align="left" 
@@ -191,7 +191,7 @@ Bolsista responsável por programação, design e coordenação. O jogo, no form
 <br/>
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub | GitHub Statistics
 <p>
   <img 
     align="left" 
