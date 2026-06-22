@@ -32,12 +32,13 @@
 ---
 
 ## 📌 Sobre Mim | About Me
-Estou no último ano do Ensino Médio Técnico em Informática pelo CEFET/RJ.
-Atualmente, atuo como estagiário de TI na Procuradoria Geral do Estado do Rio de Janeiro e já trabalhei na Prefeitura de Nova Iguaçu, na área de TI, em parceria com o setor de Meio Ambiente.
+Sou desenvolvedor Front-End e designer UI/UX, formado no Ensino Médio Técnico em Informática pelo CEFET/RJ e atualmente graduando em Análise e Desenvolvimento de Sistemas.
 
-Ao longo da minha trajetória, participei de projetos estudantis e acadêmicos que uniram tecnologia, liderança e impacto social, como o desenvolvimento de jogos digitais e ações de educação ambiental.
+Tenho foco no desenvolvimento de experiências digitais modernas, responsivas e orientadas a resultado, combinando código, design e estratégia para transformar ideias em produtos funcionais. Trabalho principalmente com HTML, CSS, JavaScript, React, Next.js, Git/GitHub e interfaces UI/UX, com interesse contínuo em arquitetura de aplicações front-end, performance e experiência do usuário.
 
-Busco constantemente me aprimorar na área de TI, estudando as linguagens e tecnologias nas quais desejo atuar futuramente, realizando cursos em instituições reconhecidas e conquistando certificações relevantes para minha carreira.
+Ao longo da minha trajetória, também desenvolvi projetos acadêmicos e institucionais envolvendo tecnologia, liderança e impacto social, incluindo iniciativas de jogos digitais, educação ambiental e representação estudantil.
+
+Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvolvimento web, produtos digitais e novas tecnologias para construir soluções cada vez mais sólidas, escaláveis e bem executadas.
 
 ---
 
