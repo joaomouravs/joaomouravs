@@ -42,7 +42,7 @@ Busco constantemente me aprimorar na área de TI, estudando as linguagens e tecn
 ---
 
 ## 💼 Experiências Relevantes | Relevant Experiences
-- **Estagiário de TI** — Procuradoria Geral do Estado do RJ *(2025 - Atual)*
+- **Estagiário de TI** — Procuradoria Geral do Estado do RJ *(2025 - 2026)*
 - **Estagiário de TI** — Prefeitura de Nova Iguaçu / Meio Ambiente *(2023-2024)*
 - **Presidente e Vice-Presidente** — Grêmio Estudantil do CEFET/RJ
 - **Representante de Turma e Conselheiro** — Ensino Médio Técnico
