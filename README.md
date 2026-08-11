@@ -1,6 +1,6 @@
 # 👨🏾‍💻 João Vitor Moura dos Santos
 
-**Web Developer (Front-end) | UI/UX Design | Python | Network Infrastructure**
+**Web Developer (Front-end) | UI/UX Design**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-moura-dos-santos-aa9a6724b">
