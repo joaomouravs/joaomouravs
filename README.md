@@ -1,6 +1,6 @@
 <!-- BANNER DE TOPO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%26%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="header" />
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@ apelido: Jv
 função: Front-End Developer & UI/UX Designer
 local: Rio de Janeiro, Brasil
 front: [React, Next.js, TypeScript, Tailwind CSS, GSAP, React Three Fiber]
-outros: [PHP, Node.js, Java, C]
+outros: [Node.js, Swift]
 formação: [Técnico em Informática - CEFET/RJ, ADS - UVA (cursando)]
 status_atual: "Construindo produtos digitais com código, design e estratégia"
 ```
@@ -52,13 +52,7 @@ Sou desenvolvedor Front-End e designer UI/UX, formado no Ensino Médio Técnico 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" />
 </div>
 
 ### <img src="https://img.icons8.com/color/25/000000/api-settings.png"/> Frameworks & Bibliotecas
