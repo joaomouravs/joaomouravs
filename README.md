@@ -26,7 +26,7 @@ apelido: joaovux
 função: Full Stack Developer & UI/UX Designer
 local: Rio de Janeiro, Brasil
 front: [React, Next.js, TypeScript, Tailwind CSS, GSAP, React Three Fiber]
-outros: [Node.js, Swift]
+outros: [Node.js, Swift, PHP, Java, C#, Python]
 formação: [Técnico em Informática - CEFET/RJ, Engenharia de Software - UVA (cursando)]
 status_atual: "Construindo produtos digitais com código, design e estratégia"
 ```
@@ -53,6 +53,14 @@ Sou desenvolvedor Full Stack e designer UI/UX, formado no Ensino Médio Técnico
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
 </div>
 
 ### <img src="https://img.icons8.com/color/25/000000/api-settings.png"/> Frameworks & Bibliotecas
