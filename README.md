@@ -1,16 +1,16 @@
 <!-- BANNER DE TOPO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jo%C3%A3o%20Vitor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&color=BD93F9&lines=Front-End+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+TypeScript;Sempre+Aprendendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&color=BD93F9&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+TypeScript;Sempre+Aprendendo" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foco-Front--End%20%26%20UI%2FUX-bd93f9?style=flat-square&logo=code&logoColor=white" alt="Foco">
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%7C%20UI%2FUX-bd93f9?style=flat-square&logo=code&logoColor=white" alt="Foco">
   <img src="https://img.shields.io/badge/Local-Rio%20de%20Janeiro%2C%20Brasil-ff79c6?style=flat-square&logo=googlemaps&logoColor=white" alt="Local">
   <img src="https://img.shields.io/badge/Portfolio-joaovux.com.br-50fa7b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   <img src="https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês-8be9fd?style=flat-square&logo=googletranslate&logoColor=white" alt="Idiomas">
@@ -22,19 +22,19 @@
 
 ```yaml
 nome: João Vitor Moura dos Santos
-apelido: Jv
-função: Front-End Developer & UI/UX Designer
+apelido: joaovux
+função: Full Stack Developer & UI/UX Designer
 local: Rio de Janeiro, Brasil
 front: [React, Next.js, TypeScript, Tailwind CSS, GSAP, React Three Fiber]
 outros: [Node.js, Swift]
-formação: [Técnico em Informática - CEFET/RJ, ADS - UVA (cursando)]
+formação: [Técnico em Informática - CEFET/RJ, Engenharia de Software - UVA (cursando)]
 status_atual: "Construindo produtos digitais com código, design e estratégia"
 ```
 
-Sou desenvolvedor Front-End e designer UI/UX, formado no Ensino Médio Técnico em Informática pelo CEFET/RJ e atualmente cursando Análise e Desenvolvimento de Sistemas. Trabalho como freelancer, unindo código e design para transformar ideias em produtos digitais modernos, responsivos e orientados a resultado — com um cuidado especial pela estética visual de cada projeto.
+Sou desenvolvedor Full Stack e designer UI/UX, formado no Ensino Médio Técnico em Informática pelo CEFET/RJ e atualmente cursando Engenharia de Software. Trabalho como freelancer, unindo código e design para transformar ideias em produtos digitais modernos, responsivos e orientados a resultado — com um cuidado especial pela estética visual de cada projeto.
 
-<img src="https://img.icons8.com/color/20/000000/laptop.png"/> Atualmente trabalhando em projetos freelance de front-end e produto digital  
-<img src="https://img.icons8.com/color/20/000000/student-male.png"/> Aprofundando conhecimentos em arquitetura front-end, performance e UX  
+<img src="https://img.icons8.com/color/20/000000/laptop.png"/> Atualmente trabalhando em projetos freelance full stack e produto digital  
+<img src="https://img.icons8.com/color/20/000000/student-male.png"/> Aprofundando conhecimentos em arquitetura de software, performance e UX  
 <img src="https://img.icons8.com/color/20/000000/handshake.png"/> Aberto a colaborar em projetos com identidade visual forte  
 <img src="https://img.icons8.com/color/20/000000/rocket.png"/> Sempre explorando novas tecnologias e ferramentas de design
 
@@ -104,7 +104,7 @@ Comunicação digital da iniciativa, produção de conteúdo visual/textual, reg
 
 ## 🎓 Formação & Certificados | Education & Certificates
 - Ensino Médio Técnico em Informática — CEFET/RJ *(2021-2025, concluído)*
-- Análise e Desenvolvimento de Sistemas — UVA *(cursando)*
+- Engenharia de Software — UVA *(cursando)*
 - Redes de Computadores — Cisco Networking Academy
 - Introdução à Cibersegurança — Cisco Networking Academy
 - Introdução à Ciência de Dados — Cisco Networking Academy
