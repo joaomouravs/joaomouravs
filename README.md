@@ -29,9 +29,9 @@ around it. Seven ADRs, tests against a real database, and load tests in GitHub A
 **[Biblioteca NEABI-NI](https://github.com/joaomouravs/neabi)** · Next.js 16, Prisma, PostgreSQL, Auth.js · [live](https://neabi-alpha.vercel.app)<br>
 The catalog and reservation system I built for NEABI, the Afro-Brazilian and Indigenous
 Studies Center at CEFET/RJ. Permissions are checked on the server for every action,
-two concurrent reservations can never receive the same physical copy, uploads are
-validated by their binary signature, and the Playwright suite fails if any page scrolls
-sideways at any of seven screen widths.
+approvals claim a physical copy with a conditional update (a test races six approvals for
+two copies, and exactly two win), uploads are validated by their binary signature, and the
+Playwright suite fails if any page scrolls sideways at any of seven screen widths.
 
 **[LUME Watches](https://github.com/joaomouravs/lume-watches)** · Next.js, GSAP, Tailwind CSS · [live](https://lume-psi-three.vercel.app)<br>
 A product page for a fictional watch brand, built around a scroll-driven exploded view of
@@ -44,7 +44,7 @@ A restaurant site rendered as static HTML, loading JavaScript only where there i
 interaction. Opening hours live in one data file that drives the "open now" badge, the
 structured data and the time slots of a three-step reservation flow.
 
-**[Portfolio](https://github.com/joaomouravs/Portfolio)** · Next.js 15, TypeScript, GSAP · [live](https://joaovux.com.br)<br>
+**[Portfolio](https://github.com/joaomouravs/Portfolio)** · Next.js, TypeScript, GSAP · [live](https://joaovux.com.br)<br>
 The source of my portfolio: a port of the original HTML/CSS/JS site that kept the design
 value for value, cut images from 21 MB to 2.27 MB and validates every case study with Zod
 at build time.
@@ -99,9 +99,10 @@ entregas/s com 4 workers depois que encontrei e corrigi um lock convoy.
 **[Biblioteca NEABI-NI](https://github.com/joaomouravs/neabi)** · Next.js 16, Prisma, PostgreSQL, Auth.js · [no ar](https://neabi-alpha.vercel.app)<br>
 Sistema de acervo e reservas que construí para o NEABI, o Núcleo de Estudos
 Afro-Brasileiros e Indígenas do CEFET/RJ. As permissões são conferidas no servidor em toda
-ação, duas reservas simultâneas nunca recebem o mesmo exemplar, os uploads são validados
-pela assinatura binária e os testes do Playwright falham se alguma página rolar para o lado
-em qualquer uma de sete larguras de tela.
+ação, a aprovação reivindica o exemplar com uma atualização condicional (um teste dispara
+seis aprovações simultâneas para dois exemplares, e exatamente duas vencem), os uploads são
+validados pela assinatura binária e os testes do Playwright falham se alguma página rolar
+para o lado em qualquer uma de sete larguras de tela.
 
 **[LUME Watches](https://github.com/joaomouravs/lume-watches)** · Next.js, GSAP, Tailwind CSS · [no ar](https://lume-psi-three.vercel.app)<br>
 Página de produto de uma marca fictícia de relógios, construída em torno de uma vista
@@ -115,7 +116,7 @@ Site de restaurante gerado como HTML estático, que só carrega JavaScript onde 
 Os horários de funcionamento ficam em um único arquivo de dados que alimenta o selo "aberto
 agora", os dados estruturados e os horários da reserva em três etapas.
 
-**[Portfólio](https://github.com/joaomouravs/Portfolio)** · Next.js 15, TypeScript, GSAP · [no ar](https://joaovux.com.br)<br>
+**[Portfólio](https://github.com/joaomouravs/Portfolio)** · Next.js, TypeScript, GSAP · [no ar](https://joaovux.com.br)<br>
 O código do meu portfólio: um porte da versão original em HTML/CSS/JS que manteve o design
 valor por valor, reduziu as imagens de 21 MB para 2,27 MB e valida cada case com Zod no
 build.
