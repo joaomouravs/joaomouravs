@@ -10,7 +10,7 @@ and that code stays private. The repositories below are the ones I can share, an
 README explains the decisions behind the code, not only how to run it.
 
 [Portfolio](https://joaovux.com.br) ·
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-moura-dos-santos-aa9a6724b) ·
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-aa9a6724b/) ·
 [Behance](https://www.behance.net/joovmourad) ·
 [joaoviux@gmail.com](mailto:joaoviux@gmail.com)
 
